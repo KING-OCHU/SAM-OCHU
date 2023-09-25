@@ -5,7 +5,7 @@
 - I’m looking to collaborate on bot making
 ---
 # contact me on 
- <a aria-label="Whatsapp" href="https://wa.me/255678101729" target="_blank">
+ <a aria-label="Whatsapp" href="https://wa.me/255699722149" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Whatsapp me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="Telegram" href="https://t.me/sam_ochuu" target="_blank">
