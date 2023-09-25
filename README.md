@@ -1,8 +1,8 @@
 # Hi, I’m SAM-OCHU
 ---
-- I’m interested in ...
-- I’m currently learning ...
-- I’m looking to collaborate on ...
+- I’m interested in creating whatsapp bot
+- I’m currently learning python language
+- I’m looking to collaborate on bot making
 ---
 # contact me on 
  <a aria-label="Whatsapp" href="https://wa.me/255678101729" target="_blank">
